@@ -1,0 +1,24 @@
+PODS:
+  - SSZipArchive (2.1.4)
+  - Yaml (3.4.3)
+  - zipzap (8.1.1)
+
+DEPENDENCIES:
+  - SSZipArchive
+  - Yaml
+  - zipzap
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SSZipArchive
+    - Yaml
+    - zipzap
+
+SPEC CHECKSUMS:
+  SSZipArchive: 41455d4b8d2b6ab93990820b50dc697c2554a322
+  Yaml: 9f32854890c54304772f02380c3899c8db739800
+  zipzap: 940162d9c9c60472c2eab341385e4214da0fdf1c
+
+PODFILE CHECKSUM: 3a33d76252bb854ecfeb1a1f6493787976774017
+
+COCOAPODS: 1.5.3

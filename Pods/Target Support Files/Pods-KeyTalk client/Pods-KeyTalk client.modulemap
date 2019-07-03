@@ -1,0 +1,6 @@
+framework module Pods_KeyTalk_client {
+  umbrella header "Pods-KeyTalk client-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LanguagePreference+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:LanguagePreference+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/User+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/User+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/StartAtLogin+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/StartAtLogin+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/CRLFrequency+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/CRLFrequency+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/RCCD+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/RCCD+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/DownloadedCert+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client/Database/DownloadedCert+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:KeyTalk client.xcodeproj">
+   </FileRef>
+</Workspace>
